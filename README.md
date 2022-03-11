@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @karansahi001
-- 👀 I’m interested in Frontend Development, and anime
-- 🌱 I’m currently learning new web development concepts
+- 👀 I’m a web developer with front-end and back-end knowledge
+- 🌱 I love learning new web development technologies
 - 📫 How to reach me: iamkaransahi@gmail.com
 
 <!---
