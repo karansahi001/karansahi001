@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @karansahi001
-- 👀 I’m a web developer with front-end and back-end knowledge
+- 👀 I’m a web developer with full-stack knowledge
 - 💻 Have knowledge of MERN stack (MongoDb, Express, React, Nodejs)
 - 💛 Javascript (Favorite Language)
 - 🌱 I love learning new web development technologies
